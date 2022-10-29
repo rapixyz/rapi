@@ -1,1 +1,1 @@
-worker: npm start --db 'mongodb+srv://Sunsupersu:#ZAINAL1221@cluster0.fogieto.mongodb.net/?retryWrites=true&w=majority'
+worker: node . --db 'mongodb+srv://mongodb-xyror:zainalgaminggantengsekali@cluster0.hcsu9hv.mongodb.net/?retryWrites=true&w=majority'
